@@ -36,9 +36,6 @@
 					<li class="nav-item active">
 						<a class="nav-link" href="gav.php">Gardes &agrave; Vues</a>
 					</li>
-					<li class="nav-item active">
-						<a class="nav-link" href="casier.php">Casiers Judiciaires</a>
-					</li>
 				</ul>
 			</div>
 		</nav>
@@ -128,7 +125,7 @@
 		</section>
 		<section class="container-fluid fixed-bottom bg-dark text-light">
 			<section class="container text-center">
-				<p>@copyright 2020-2021 - Tous droits r&eacute;serv&eacute;s &agrave; Alsaria - Gouvernement - Gendarmerie Nationale</p>
+				<p>@copyright 2020-2021 - Tous droits r&eacute;serv&eacute;s &agrave; Ice Life - Powered by Jacques Blake</p>
 			</section>
 		</section>
 <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
