@@ -1,6 +1,6 @@
 <?php 
     $erreur = '';
-    $db = new PDO('mysql:host=mysql-mariadb14-104.zap-hosting.com;dbname=zap445718-5;charset=utf8', 'zap445718-5', 'SpDPnZJ1dJLofK8I');
+    $db = new PDO('mysql:host=intranetcg2805.mysql.db;dbname=intranetcg2805;charset=utf8', 'intranetcg2805', 'Tango2267');
     
     $nom = $_POST['nom'] ?? '';
     $prenom = $_POST['prenom'] ?? '';

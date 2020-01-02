@@ -7,7 +7,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 <title>Gendarmerie Nationale</title>
@@ -35,9 +35,6 @@
 					</li>
 					<li class="nav-item active">
 						<a class="nav-link" href="gav.php">Gardes &agrave; Vues</a>
-					</li>
-					<li class="nav-item active">
-						<a class="nav-link" href="casier.php">Casiers Judiciaires</a>
 					</li>
 				</ul>
 			</div>
@@ -81,7 +78,7 @@
                       	</div>
                       <div class="modal-footer bg-dark">
                         <button type="button" class="btn btn-secondary" data-dismiss="modal">Annuler</button>
-                        <button type="submit" class="btn btn-primary">Valider</button>
+                        <button id="valider_plainte" type="submit" class="btn btn-primary">Valider</button>
                         </form>
                       </div>
                     </div>
@@ -127,7 +124,7 @@
 	</section>
 	<section class="container-fluid fixed-bottom bg-dark text-light">
 		<section class="container text-center">
-			<p>@copyright 2020-2021 - Tous droits r&eacute;serv&eacute;s &agrave; Alsaria - Gouvernement - Gendarmerie National</p> 
+			<p>@copyright 2020-2021 - Tous droits r&eacute;serv&eacute;s &agrave; Ice Life - Powered by Jacques Blake</p> 
 		</section>
 	</section>
 <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>

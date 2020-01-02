@@ -1,6 +1,3 @@
-<?php 
-    session_start();
-?>
 <!DOCTYPE html>
 <html>
 	<?php include 'include/acces_intranet.php';?>
